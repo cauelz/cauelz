@@ -26,6 +26,6 @@ Tenha um ótimo dia! <br/>
   <strong><br/>
 </p>
 <p>
-  <strong>:email: &nbsp; Entre em contato comigo:</strong><br/> <a href="https://www.linkedin.com/in/cauezaratin/"><img src="https://img.shields.io/badge/-Cauê-Zaratin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cauezaratin/" /></a>
+  <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="cauezaratin"><a class="LI-simple-link" href='https://br.linkedin.com/in/cauezaratin?trk=profile-badge'>Cauê Zaratin</a></div>
 <a href="mailto:caue.lasagno.zaratin@gmail.com"><img src="https://img.shields.io/badge/-caue.lasagno.zaratin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caue.lasagno.zaratin@gmail.com" /></a>
 </p>
