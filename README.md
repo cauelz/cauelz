@@ -29,3 +29,5 @@ Tenha um ótimo dia! <br/>
   <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="cauezaratin"><a class="LI-simple-link" href='https://br.linkedin.com/in/cauezaratin?trk=profile-badge'>Cauê Zaratin</a></div>
 <a href="mailto:caue.lasagno.zaratin@gmail.com"><img src="https://img.shields.io/badge/-caue.lasagno.zaratin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caue.lasagno.zaratin@gmail.com" /></a>
 </p>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cauelz)](https://github.com/anuraghazra/github-readme-stats)
