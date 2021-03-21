@@ -30,4 +30,5 @@ Tenha um ótimo dia! <br/>
 <a href="mailto:caue.lasagno.zaratin@gmail.com"><img src="https://img.shields.io/badge/-caue.lasagno.zaratin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caue.lasagno.zaratin@gmail.com" /></a>
 </p>
 
-[![Cauê's github stats](https://github-readme-stats.vercel.app/api?username=cauelz)](https://github.com/cauelz/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cauelz)](https://github.com/anuraghazra/github-readme-stats)
+
