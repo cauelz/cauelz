@@ -20,7 +20,7 @@ Mas eu sou uma pessoa extremamente curiosa, então sempre busco conhecer tecnolo
 </ul>
 <br/>
 Atualmente, eu sou um Desenvolvedor Trainee Salesforce na Harpia Cloud. Lá, continuo o meu aprendizado como Desenvolvedor Full-Stack com as seguintes tecnologias:
-<br/>
+<br/><br/>
 <ul>
  <li>Javascript(ES6) Puro</li>
  <li>Java | Apex</li>
@@ -31,7 +31,7 @@ Atualmente, eu sou um Desenvolvedor Trainee Salesforce na Harpia Cloud. Lá, con
 Quer falar comigo? Você pode me chamar pelo Linkedin =D, mas se quiser, segue meu e-mail:
 <br/><br/>
 gmail: caue.lasagno.zaratin@gmail.com
-<br/><br/>
+<br/>
 Tenha um ótimo dia!
 </p>
 <p>
