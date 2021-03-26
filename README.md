@@ -27,7 +27,7 @@ Atualmente, eu sou um Desenvolvedor Trainee Salesforce na Harpia Cloud. Lá, con
  <li>Lightning Web Components</li>
  <li>Git e Github</li>
 </ul>
-<br/>
+<br/><br/>
 Quer falar comigo? Você pode me chamar pelo Linkedin =D, mas se quiser, segue meu e-mail:
 <br/><br/>
 gmail: caue.lasagno.zaratin@gmail.com
