@@ -11,20 +11,22 @@ Querendo ampliar meus conhecimento, em 2020, comecei meus estudos na Digital Hou
 Mas eu sou uma pessoa extremamente curiosa, então sempre busco conhecer tecnologias novas. Veja outros conhecimentos que possuo:
 <br/><br/>
 <ul>
- <li>- Java</li>
- <li>- Spring Boot</li>
- <li>- Docker</li>
- <li>- Kubernetes</li>
- <li>- MySQL</li>
- <li>- Flutter</li>
+ <li>Java</li>
+ <li>Spring Boot</li>
+ <li>Docker</li>
+ <li>Kubernetes</li>
+ <li>MySQL</li>
+ <li>Flutter</li>
 </ul>
 <br/><br/>
 Atualmente, eu sou um Desenvolvedor Trainee Salesforce na Harpia Cloud. Lá, continuo o meu aprendizado como Desenvolvedor Full-Stack com as seguintes tecnologias:
 <br/><br/>
-- Javascript(ES6) Puro
-- Java | Apex
-- Lightning Web Components
-- Git e Github
+<ul>
+ <li>Javascript(ES6) Puro</li>
+ <li>Java | Apex</li>
+ <li>Lightning Web Components</li>
+ <li>Git e Github</li>
+</ul>
 <br/><br/>
 Quer falar comigo? Você pode me chamar pelo Linkedin =D, mas se quiser, segue meu e-mail:
 <br/><br/>
