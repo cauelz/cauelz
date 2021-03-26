@@ -2,28 +2,33 @@
 <p>
  Olá, tudo bom? Seja muito bem vindo =)
 <br/><br/>  
-Eu sou Cauê Zaratin, um Engenheiro Químico que descobriu uma paixão por tecnologia.
+Me chamo Cauê Zaratin e sou um Engenheiro Químico que descobriu uma paixão por tecnologia.
 <br/><br/>
-Estou nesta jornada desde 2019, onde comecei estudar Desenvolvimento Web Full Stack pela plataforma de cursos online Alura. Lá dei meu ponta pé inicial, criei uma base de conhecimento bem bacana.
+Comecei minha transição de carreira no começo de 2019 com os cursos de UX/UI Design e Desenvolvimento Front-End da Alura. Lá, consegui adquirir minha base de conhecimento das principais tecnologias da Web: HTML, CSS e JavaScript(ES6).
 <br/><br/>
-Não satisfeito, em 2020, comecei meus estudos na Digital House o curso de extensão Desenvolvimento Web Full-Stack, onde aprofundei meus conhecimentos na Stack MERN (MongoDB, Express, React e Node). Fiz um projeto bem completo End-To-End chamado Orgâni.co, ou seja, do Front-End ao Back-End.
+Querendo ampliar meus conhecimento, em 2020, comecei meus estudos na Digital House Brasil o curso de Extensão Desenvolvimento Web Full-Stack, onde aprofundei meus conhecimentos na Stack MERN (MongoDB, Express, React e Node) e Git | Github.
 <br/><br/>
-Hoje, meu conhecimento na STACK MERN (MongoDB, Express.js, React.js, Node.js) é o mais aprofundado, mas eu gosto muito de conhecer diferentes tecnologias.
+Mas eu sou uma pessoa extremamente curiosa, então sempre busco conhecer tecnologias novas. Veja outros conhecimentos que possuo:
 <br/><br/>
-Também tenho conhecimento em Java, Spring Boot, Spring FrameWork, AWS, Docker e Kubernetes.
+- Java
+- Spring Boot
+- Docker
+- Kubernetes
+- MySQL
+- Flutter
 <br/><br/>
-Atualmente, sou um Consultor Trainee | Desenvolvedor Trainee Salesforce na Harpia Cloud. Lá continuo o meu aprendizado como Desenvolvedor.
+Atualmente, eu sou um Desenvolvedor Trainee Salesforce na Harpia Cloud. Lá, continuo o meu aprendizado como Desenvolvedor Full-Stack com as seguintes tecnologias:
 <br/><br/>
-Linguagens de Programação: JavaScript e Java.
+- Javascript(ES6) Puro
+- Java | Apex
+- Lightning Web Components
+- Git e Github
 <br/><br/>
-Desenvolvimento Front-End: HTML5, CSS3, React.js, Bootstrap 4.
+Quer falar comigo? Você pode me chamar pelo Linkedin =D, mas se quiser, segue meu e-mail:
 <br/><br/>
-Desenvolvimento Back-End: Node.js, Express, MySQL, MongoDB, Spring Boot, Docker, Kubernetes e AWS.
+gmail: caue.lasagno.zaratin@gmail.com
 <br/><br/>
-Se tiver interesse em conversar comigo, fique à vontade para me chamar!
-<br/><br/>
-Tenha um ótimo dia! <br/>  
-  <strong><br/>
+Tenha um ótimo dia!
 </p>
 <p>
   <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="cauezaratin"><a class="LI-simple-link" href='https://br.linkedin.com/in/cauezaratin?trk=profile-badge'>Cauê Zaratin</a></div>
