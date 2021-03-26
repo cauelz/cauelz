@@ -9,7 +9,7 @@ Comecei minha transição de carreira no começo de 2019 com os cursos de UX/UI 
 Querendo ampliar meus conhecimento, em 2020, comecei meus estudos na Digital House Brasil o curso de Extensão Desenvolvimento Web Full-Stack, onde aprofundei meus conhecimentos na Stack MERN (MongoDB, Express, React e Node) e Git | Github.
 <br/><br/>
 Mas eu sou uma pessoa extremamente curiosa, então sempre busco conhecer tecnologias novas. Veja outros conhecimentos que possuo:
-<br/><br/>
+<br/>
 <ul>
  <li>Java</li>
  <li>Spring Boot</li>
@@ -18,16 +18,16 @@ Mas eu sou uma pessoa extremamente curiosa, então sempre busco conhecer tecnolo
  <li>MySQL</li>
  <li>Flutter</li>
 </ul>
-<br/><br/>
+<br/>
 Atualmente, eu sou um Desenvolvedor Trainee Salesforce na Harpia Cloud. Lá, continuo o meu aprendizado como Desenvolvedor Full-Stack com as seguintes tecnologias:
-<br/><br/>
+<br/>
 <ul>
  <li>Javascript(ES6) Puro</li>
  <li>Java | Apex</li>
  <li>Lightning Web Components</li>
  <li>Git e Github</li>
 </ul>
-<br/><br/>
+<br/>
 Quer falar comigo? Você pode me chamar pelo Linkedin =D, mas se quiser, segue meu e-mail:
 <br/><br/>
 gmail: caue.lasagno.zaratin@gmail.com
