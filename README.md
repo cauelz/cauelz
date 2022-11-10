@@ -14,7 +14,7 @@ Have a great day!
 
 Currently working at BRQ Digital Solutions<br/>
 
-I am a Salesforce Developer and Back-End Developer.
+Salesforce Developer | Back-End Developer.
 
 
 </p>
