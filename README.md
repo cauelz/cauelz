@@ -12,10 +12,7 @@ Have a great day!
 
 <p>
 
-Currently working at BRQ Digital Solutions<br/>
-
-Salesforce Developer | Back-End Developer.
-
+Software Engineer
 
 </p>
 <hr>
